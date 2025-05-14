@@ -3,8 +3,11 @@
 #pragma once
 
 #include "CoreMinimal.h"
+#include "EnhancedInputSubsystems.h"
 #include "GameFramework/PlayerController.h"
 #include "AuraPlayerController.generated.h"
+
+
 // Forward Declare //
 class UInputMappingContext;
 
