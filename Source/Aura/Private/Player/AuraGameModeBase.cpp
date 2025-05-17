@@ -1,7 +1,7 @@
 // Copywright Dynosahr Designs 2025
 
 
-#include "AuraGameModeBase.h"
+#include "Player/AuraGameModeBase.h"
 
 AuraGameModeBase::AuraGameModeBase()
 {
